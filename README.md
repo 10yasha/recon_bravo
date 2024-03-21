@@ -14,5 +14,3 @@ The file 'Recon Bravo' compiled for Mac OS X can be found under the 'Release' di
 ### Screenshots
 ![](Resources/Screenshots/level_1_screenshot.png)
 ![](Resources/Screenshots/level_2_screenshot.png)
-![](Resources/Screenshots/level_3_screenshot.png)
-![](Resources/Screenshots/menu_screenshot.png)
