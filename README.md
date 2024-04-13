@@ -1,6 +1,6 @@
 # Recon Bravo
 
-Sneak past enemies in this tactical stealth game created in C# with unity.
+Sneak past enemies in this simple stealth game created in C# with unity.
 
 ### Execution
 The file 'Recon Bravo' compiled for Mac OS X can be found under the 'Release' directory.
